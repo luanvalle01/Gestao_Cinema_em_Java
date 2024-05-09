@@ -1,0 +1,15 @@
+0|Deu a Louca na Chapeuzinho|2005|80|Uma animacao que conta uma versao moderna da classica historia de Chapeuzinho Vermelho, com muita diversao e aventura.
+1|O Menino e o Mundo|2013|80|Um garoto parte em uma jornada magica para encontrar seu pai em uma animacao visualmente impressionante.
+2|Como Treinar o seu Dragao|2010|98|Um jovem viking chamado Soluco precisa provar sua coragem ao capturar e treinar um dragao feroz.
+3|Cidade de Deus|2002|130|A vida em uma favela do Rio de Janeiro e retratada atraves dos olhos de um jovem que cresce rodeado pelo crime e pela violencia.
+4|O Grilo Feliz|2001|83|Animacao brasileira que segue as aventuras de um grilo otimista em busca de sua liberdade e da realizacao de seus sonhos.
+5|Procurando Nemo|2003|100|Um peixe-palhaco chamado Marlin embarca em uma jornada epica para encontrar seu filho Nemo, que foi capturado por um mergulhador.
+6|A Era do Gelo|2002|81|Uma animacao que segue as aventuras de um grupo de animais pre-historicos enquanto eles tentam sobreviver as mudancas climaticas.
+7|O Auto da Compadecida|2000|104|Uma comedia que narra as aventuras de Joao Grilo e Chico, dois nordestinos que enfrentam situacoes hilarias enquanto tentam sobreviver no sertao.
+8|O Que E Isso, Companheiro?|1997|110|Baseado em fatos reais, o filme retrata o sequestro do embaixador dos EUA no Brasil pelos militantes de esquerda durante a ditadura militar.
+9|O Pai, O|2007|96|Os moradores de um cortico em Salvador se reunem para celebrar o Carnaval, enfrentando problemas e conflitos ao longo do caminho.
+10|O Homem Que Copiava|2003|124|Um operador de fotocopiadora decide entrar para o mundo do crime ao perceber que sua vida monotona nao o levara a lugar nenhum.
+11|Bicho de Sete Cabecas|2001|87|Um adolescente rebelde e internado em um hospital psiquiatrico pelo seu pai autoritario, enfrentando o sistema de saude mental do Brasil.
+12|Que Horas Ela Volta?|2015|112|Uma empregada domestica nordestina muda-se para Sao Paulo para trabalhar para uma familia rica, mas sua presenca causa tensoes e revelacoes na casa.
+13|Estomago|2007|113|Um cozinheiro ambicioso sobe na hierarquia do mundo culinario ao mesmo tempo em que se envolve em atividades ilegais.
+14|Carandiru|2003|145|Baseado no livro do medico Drauzio Varella, o filme retrata a vida dos detentos em uma das maiores prisoes do Brasil.
